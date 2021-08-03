@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1627917876 source:c:\fayaz\sem 6 lab\cg_lab\p9_scan_line_algo_polygon\main.cpp
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<GL/glut.h>
+
+976692172 c:\program files\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+

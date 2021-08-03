@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1627915945 source:c:\fayaz\sem 6 lab\cg_lab\p1\p1_bresenhams_line_algo\main.cpp
+	<windows.h>
+	<stdio.h>
+	<math.h>
+	<GL/glut.h>
+
+976692172 c:\program files\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+

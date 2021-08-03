@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1627917720 source:c:\fayaz\sem 6 lab\cg_lab\p8_bezier_curve_algo_flag\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdio.h>
+	<math.h>
+
+976692172 c:\program files\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1627916693 source:c:\fayaz\sem 6 lab\cg_lab\p3_color_cube_spin\main.cpp
+	<windows.h>
+	<stdlib.h>
+	<GL/glut.h>
+
+976692172 c:\program files\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
